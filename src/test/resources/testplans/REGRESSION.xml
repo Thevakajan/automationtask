@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="REGRESSION" verbose="1" configfailurepolicy="continue">
+
+    <test name="RunnFullTest">
+        <classes>
+            <class name="com.project.automation.webgoat.tests.RegistrationTest"/>
+
+
+      </classes>
+      </test>
+    
+</suite>
